@@ -6,14 +6,19 @@ namespace d2022hello
     {
         static void Main(string[] args)
         {
-            // Console.WriteLine("Hello World!");
-            int a = 10;
+            string color = "yellow";
 
-            while(a < 20){
-                Console.WriteLine("Value of a: " + a);
-                a++;
+            switch(color){
+                case "white":
+                Console.WriteLine("white");
+                break;
+                case "blue":
+                Console.WriteLine("blue");
+                break;
+                default:
+                Console.WriteLine("invalid color : " + color);
+                break;
             }
-            Console.Read();
         }
     }
 }
