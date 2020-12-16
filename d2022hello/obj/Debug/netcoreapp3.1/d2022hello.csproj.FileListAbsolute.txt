@@ -1,0 +1,13 @@
+D:\programs\d02sharp\d2022hello\bin\Debug\netcoreapp3.1\d2022hello.exe
+D:\programs\d02sharp\d2022hello\bin\Debug\netcoreapp3.1\d2022hello.deps.json
+D:\programs\d02sharp\d2022hello\bin\Debug\netcoreapp3.1\d2022hello.runtimeconfig.json
+D:\programs\d02sharp\d2022hello\bin\Debug\netcoreapp3.1\d2022hello.runtimeconfig.dev.json
+D:\programs\d02sharp\d2022hello\bin\Debug\netcoreapp3.1\d2022hello.dll
+D:\programs\d02sharp\d2022hello\bin\Debug\netcoreapp3.1\d2022hello.pdb
+D:\programs\d02sharp\d2022hello\obj\Debug\netcoreapp3.1\d2022hello.csprojAssemblyReference.cache
+D:\programs\d02sharp\d2022hello\obj\Debug\netcoreapp3.1\d2022hello.AssemblyInfoInputs.cache
+D:\programs\d02sharp\d2022hello\obj\Debug\netcoreapp3.1\d2022hello.AssemblyInfo.cs
+D:\programs\d02sharp\d2022hello\obj\Debug\netcoreapp3.1\d2022hello.csproj.CoreCompileInputs.cache
+D:\programs\d02sharp\d2022hello\obj\Debug\netcoreapp3.1\d2022hello.dll
+D:\programs\d02sharp\d2022hello\obj\Debug\netcoreapp3.1\d2022hello.pdb
+D:\programs\d02sharp\d2022hello\obj\Debug\netcoreapp3.1\d2022hello.genruntimeconfig.cache
