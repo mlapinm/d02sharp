@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d2042_012form", "d2042_012form\d2042_012form.csproj", "{59109831-4307-4D1B-BCBB-F2897FA820A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d2042_022icon", "d2042_022icon\d2042_022icon.csproj", "{6DB33AD7-68D2-4B50-959A-CCA422FCA256}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d2042_032color", "d2042_032color\d2042_032color.csproj", "{40B2A7BB-EE96-4147-8214-ADA9D5002556}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59109831-4307-4D1B-BCBB-F2897FA820A5}.Debug|x86.ActiveCfg = Debug|x86
+		{59109831-4307-4D1B-BCBB-F2897FA820A5}.Debug|x86.Build.0 = Debug|x86
+		{59109831-4307-4D1B-BCBB-F2897FA820A5}.Release|x86.ActiveCfg = Release|x86
+		{59109831-4307-4D1B-BCBB-F2897FA820A5}.Release|x86.Build.0 = Release|x86
+		{6DB33AD7-68D2-4B50-959A-CCA422FCA256}.Debug|x86.ActiveCfg = Debug|x86
+		{6DB33AD7-68D2-4B50-959A-CCA422FCA256}.Debug|x86.Build.0 = Debug|x86
+		{6DB33AD7-68D2-4B50-959A-CCA422FCA256}.Release|x86.ActiveCfg = Release|x86
+		{6DB33AD7-68D2-4B50-959A-CCA422FCA256}.Release|x86.Build.0 = Release|x86
+		{40B2A7BB-EE96-4147-8214-ADA9D5002556}.Debug|x86.ActiveCfg = Debug|x86
+		{40B2A7BB-EE96-4147-8214-ADA9D5002556}.Debug|x86.Build.0 = Debug|x86
+		{40B2A7BB-EE96-4147-8214-ADA9D5002556}.Release|x86.ActiveCfg = Release|x86
+		{40B2A7BB-EE96-4147-8214-ADA9D5002556}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

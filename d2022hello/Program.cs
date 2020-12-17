@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 
 namespace d2022hello
 {
@@ -6,19 +7,17 @@ namespace d2022hello
     {
         static void Main(string[] args)
         {
-            string color = "yellow";
-
-            switch(color){
-                case "white":
-                Console.WriteLine("white");
-                break;
-                case "blue":
-                Console.WriteLine("blue");
-                break;
-                default:
-                Console.WriteLine("invalid color : " + color);
-                break;
+            try{
+                Thread thread = new Thread(new ThreadStart(stuff));
+                thread.Start();
+            }catch(Exception e){
+                Console.WriteLine(e);
             }
+
+            static void stuff(){
+                Console.WriteLine("Thread 1 running");
+            }
+
         }
     }
 }

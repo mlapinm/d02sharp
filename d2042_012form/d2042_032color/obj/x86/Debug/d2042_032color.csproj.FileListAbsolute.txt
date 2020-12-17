@@ -1,0 +1,7 @@
+D:\programs\d02sharp\d2042_012form\d2042_032color\bin\Debug\d2042_032color.exe
+D:\programs\d02sharp\d2042_012form\d2042_032color\bin\Debug\d2042_032color.pdb
+D:\programs\d02sharp\d2042_012form\d2042_032color\obj\x86\Debug\d2042_032color.Properties.Resources.resources
+D:\programs\d02sharp\d2042_012form\d2042_032color\obj\x86\Debug\d2042_032color.csproj.GenerateResource.Cache
+D:\programs\d02sharp\d2042_012form\d2042_032color\obj\x86\Debug\d2042_032color.exe
+D:\programs\d02sharp\d2042_012form\d2042_032color\obj\x86\Debug\d2042_032color.pdb
+D:\programs\d02sharp\d2042_012form\d2042_032color\obj\x86\Debug\d2042_032color.Form1.resources
