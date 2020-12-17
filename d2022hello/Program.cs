@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Threading;
+using System.IO;
 
 namespace d2022hello
 {
@@ -8,15 +8,14 @@ namespace d2022hello
         static void Main(string[] args)
         {
             try{
-                Thread thread = new Thread(new ThreadStart(stuff));
-                thread.Start();
+                TextWriter textWriter = new StreamWriter("./new02.txt", true);
+                textWriter.WriteLine("123");
+                textWriter.Close();
+                Console.WriteLine("File Worked");
             }catch(Exception e){
                 Console.WriteLine(e);
             }
 
-            static void stuff(){
-                Console.WriteLine("Thread 1 running");
-            }
 
         }
     }
