@@ -1,0 +1,7 @@
+D:\programs\d02sharp\d2042_012form\d2042_052picker\bin\Debug\d2042_052picker.exe
+D:\programs\d02sharp\d2042_012form\d2042_052picker\bin\Debug\d2042_052picker.pdb
+D:\programs\d02sharp\d2042_012form\d2042_052picker\obj\x86\Debug\d2042_052picker.Form1.resources
+D:\programs\d02sharp\d2042_012form\d2042_052picker\obj\x86\Debug\d2042_052picker.Properties.Resources.resources
+D:\programs\d02sharp\d2042_012form\d2042_052picker\obj\x86\Debug\d2042_052picker.csproj.GenerateResource.Cache
+D:\programs\d02sharp\d2042_012form\d2042_052picker\obj\x86\Debug\d2042_052picker.exe
+D:\programs\d02sharp\d2042_012form\d2042_052picker\obj\x86\Debug\d2042_052picker.pdb

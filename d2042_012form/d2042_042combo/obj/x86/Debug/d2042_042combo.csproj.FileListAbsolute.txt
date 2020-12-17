@@ -1,0 +1,7 @@
+D:\programs\d02sharp\d2042_012form\d2042_042combo\bin\Debug\d2042_042combo.exe
+D:\programs\d02sharp\d2042_012form\d2042_042combo\bin\Debug\d2042_042combo.pdb
+D:\programs\d02sharp\d2042_012form\d2042_042combo\obj\x86\Debug\d2042_042combo.Form1.resources
+D:\programs\d02sharp\d2042_012form\d2042_042combo\obj\x86\Debug\d2042_042combo.Properties.Resources.resources
+D:\programs\d02sharp\d2042_012form\d2042_042combo\obj\x86\Debug\d2042_042combo.csproj.GenerateResource.Cache
+D:\programs\d02sharp\d2042_012form\d2042_042combo\obj\x86\Debug\d2042_042combo.exe
+D:\programs\d02sharp\d2042_012form\d2042_042combo\obj\x86\Debug\d2042_042combo.pdb

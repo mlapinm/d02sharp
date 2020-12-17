@@ -7,6 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d2042_022icon", "d2042_022i
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d2042_032color", "d2042_032color\d2042_032color.csproj", "{40B2A7BB-EE96-4147-8214-ADA9D5002556}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d2042_042combo", "d2042_042combo\d2042_042combo.csproj", "{9C420AA8-2856-4580-A111-E9DF6FC64E72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d2042_052picker", "d2042_052picker\d2042_052picker.csproj", "{B6C4B800-5D1C-4EF8-836B-D2A96959DA2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d2042_062Font", "d2042_062Font\d2042_062Font.csproj", "{D675DC36-D166-44F2-AC99-044DE6220CCD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -25,6 +31,18 @@ Global
 		{40B2A7BB-EE96-4147-8214-ADA9D5002556}.Debug|x86.Build.0 = Debug|x86
 		{40B2A7BB-EE96-4147-8214-ADA9D5002556}.Release|x86.ActiveCfg = Release|x86
 		{40B2A7BB-EE96-4147-8214-ADA9D5002556}.Release|x86.Build.0 = Release|x86
+		{9C420AA8-2856-4580-A111-E9DF6FC64E72}.Debug|x86.ActiveCfg = Debug|x86
+		{9C420AA8-2856-4580-A111-E9DF6FC64E72}.Debug|x86.Build.0 = Debug|x86
+		{9C420AA8-2856-4580-A111-E9DF6FC64E72}.Release|x86.ActiveCfg = Release|x86
+		{9C420AA8-2856-4580-A111-E9DF6FC64E72}.Release|x86.Build.0 = Release|x86
+		{B6C4B800-5D1C-4EF8-836B-D2A96959DA2D}.Debug|x86.ActiveCfg = Debug|x86
+		{B6C4B800-5D1C-4EF8-836B-D2A96959DA2D}.Debug|x86.Build.0 = Debug|x86
+		{B6C4B800-5D1C-4EF8-836B-D2A96959DA2D}.Release|x86.ActiveCfg = Release|x86
+		{B6C4B800-5D1C-4EF8-836B-D2A96959DA2D}.Release|x86.Build.0 = Release|x86
+		{D675DC36-D166-44F2-AC99-044DE6220CCD}.Debug|x86.ActiveCfg = Debug|x86
+		{D675DC36-D166-44F2-AC99-044DE6220CCD}.Debug|x86.Build.0 = Debug|x86
+		{D675DC36-D166-44F2-AC99-044DE6220CCD}.Release|x86.ActiveCfg = Release|x86
+		{D675DC36-D166-44F2-AC99-044DE6220CCD}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

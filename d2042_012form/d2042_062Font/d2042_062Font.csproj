@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{9C420AA8-2856-4580-A111-E9DF6FC64E72}</ProjectGuid>
+    <ProjectGuid>{D675DC36-D166-44F2-AC99-044DE6220CCD}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>d2042_042combo</RootNamespace>
-    <AssemblyName>d2042_042combo</AssemblyName>
+    <RootNamespace>d2042_062Font</RootNamespace>
+    <AssemblyName>d2042_062Font</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>

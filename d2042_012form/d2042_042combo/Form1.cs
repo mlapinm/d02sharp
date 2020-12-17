@@ -15,5 +15,21 @@ namespace d2042_042combo
         {
             InitializeComponent();
         }
-    }
+
+        private void Form1_load(object sender, EventArgs e)
+        {
+            comboBox1.Items.Add("One");
+            comboBox1.Items.Add("Two");
+            comboBox1.Items.Add("Three");
+            comboBox1.Items.Add("Four");
+            comboBox1.SelectedIndex = 0;
+        }
+        
+
+        private void button1_MouseClick(object sender, MouseEventArgs e)
+        {
+            label1.Text = "Selected option " + comboBox1.Text;
+        }
+
+     }
 }

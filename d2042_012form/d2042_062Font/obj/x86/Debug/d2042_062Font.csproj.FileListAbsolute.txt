@@ -1,0 +1,7 @@
+D:\programs\d02sharp\d2042_012form\d2042_062Font\bin\Debug\d2042_062Font.exe
+D:\programs\d02sharp\d2042_012form\d2042_062Font\bin\Debug\d2042_062Font.pdb
+D:\programs\d02sharp\d2042_012form\d2042_062Font\obj\x86\Debug\d2042_062Font.Form1.resources
+D:\programs\d02sharp\d2042_012form\d2042_062Font\obj\x86\Debug\d2042_062Font.Properties.Resources.resources
+D:\programs\d02sharp\d2042_012form\d2042_062Font\obj\x86\Debug\d2042_062Font.csproj.GenerateResource.Cache
+D:\programs\d02sharp\d2042_012form\d2042_062Font\obj\x86\Debug\d2042_062Font.exe
+D:\programs\d02sharp\d2042_012form\d2042_062Font\obj\x86\Debug\d2042_062Font.pdb

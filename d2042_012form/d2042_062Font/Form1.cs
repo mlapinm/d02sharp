@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace d2042_032color
+namespace d2042_062Font
 {
     public partial class Form1 : Form
     {
@@ -16,10 +16,10 @@ namespace d2042_032color
             InitializeComponent();
         }
 
-        private void button1_mouseClick(object sender, MouseEventArgs e)
+        private void button1_MouseClick(object sender, MouseEventArgs e)
         {
-            ColorDialog cd = new ColorDialog();
-            cd.ShowDialog();
+            FontDialog fd = new FontDialog();
+            fd.ShowDialog();
         }
     }
 }

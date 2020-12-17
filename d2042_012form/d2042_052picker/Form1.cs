@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace d2042_032color
+namespace d2042_052picker
 {
     public partial class Form1 : Form
     {
@@ -18,8 +18,10 @@ namespace d2042_032color
 
         private void button1_mouseClick(object sender, MouseEventArgs e)
         {
-            ColorDialog cd = new ColorDialog();
-            cd.ShowDialog();
+            String date1;
+            DateTime result = dateTimePicker1.Value;
+            date1 = result.ToString();
+            textBox1.Text = date1;
         }
     }
 }
