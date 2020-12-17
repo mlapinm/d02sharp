@@ -1,0 +1,7 @@
+D:\programs\d02sharp\d2042_012form\d2042_082FileDialog\bin\Debug\d2042_082FileDialog.exe
+D:\programs\d02sharp\d2042_012form\d2042_082FileDialog\bin\Debug\d2042_082FileDialog.pdb
+D:\programs\d02sharp\d2042_012form\d2042_082FileDialog\obj\x86\Debug\d2042_082FileDialog.Form1.resources
+D:\programs\d02sharp\d2042_012form\d2042_082FileDialog\obj\x86\Debug\d2042_082FileDialog.Properties.Resources.resources
+D:\programs\d02sharp\d2042_012form\d2042_082FileDialog\obj\x86\Debug\d2042_082FileDialog.csproj.GenerateResource.Cache
+D:\programs\d02sharp\d2042_012form\d2042_082FileDialog\obj\x86\Debug\d2042_082FileDialog.exe
+D:\programs\d02sharp\d2042_012form\d2042_082FileDialog\obj\x86\Debug\d2042_082FileDialog.pdb

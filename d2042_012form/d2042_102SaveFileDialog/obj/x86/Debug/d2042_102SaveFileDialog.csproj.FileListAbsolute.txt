@@ -1,0 +1,7 @@
+D:\programs\d02sharp\d2042_012form\d2042_102SaveFileDialog\bin\Debug\d2042_102SaveFileDialog.exe
+D:\programs\d02sharp\d2042_012form\d2042_102SaveFileDialog\bin\Debug\d2042_102SaveFileDialog.pdb
+D:\programs\d02sharp\d2042_012form\d2042_102SaveFileDialog\obj\x86\Debug\d2042_102SaveFileDialog.Properties.Resources.resources
+D:\programs\d02sharp\d2042_012form\d2042_102SaveFileDialog\obj\x86\Debug\d2042_102SaveFileDialog.csproj.GenerateResource.Cache
+D:\programs\d02sharp\d2042_012form\d2042_102SaveFileDialog\obj\x86\Debug\d2042_102SaveFileDialog.exe
+D:\programs\d02sharp\d2042_012form\d2042_102SaveFileDialog\obj\x86\Debug\d2042_102SaveFileDialog.pdb
+D:\programs\d02sharp\d2042_012form\d2042_102SaveFileDialog\obj\x86\Debug\d2042_102SaveFileDialog.Form1.resources

@@ -1,0 +1,7 @@
+D:\programs\d02sharp\d2042_012form\d2042_072ListBox\bin\Debug\d2042_072ListBox.exe
+D:\programs\d02sharp\d2042_012form\d2042_072ListBox\bin\Debug\d2042_072ListBox.pdb
+D:\programs\d02sharp\d2042_012form\d2042_072ListBox\obj\x86\Debug\d2042_072ListBox.Form1.resources
+D:\programs\d02sharp\d2042_012form\d2042_072ListBox\obj\x86\Debug\d2042_072ListBox.Properties.Resources.resources
+D:\programs\d02sharp\d2042_012form\d2042_072ListBox\obj\x86\Debug\d2042_072ListBox.csproj.GenerateResource.Cache
+D:\programs\d02sharp\d2042_012form\d2042_072ListBox\obj\x86\Debug\d2042_072ListBox.exe
+D:\programs\d02sharp\d2042_012form\d2042_072ListBox\obj\x86\Debug\d2042_072ListBox.pdb

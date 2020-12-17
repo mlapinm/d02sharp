@@ -1,0 +1,7 @@
+D:\programs\d02sharp\d2042_012form\d2042_132Resize\bin\Debug\d2042_132Resize.exe
+D:\programs\d02sharp\d2042_012form\d2042_132Resize\bin\Debug\d2042_132Resize.pdb
+D:\programs\d02sharp\d2042_012form\d2042_132Resize\obj\x86\Debug\d2042_132Resize.Properties.Resources.resources
+D:\programs\d02sharp\d2042_012form\d2042_132Resize\obj\x86\Debug\d2042_132Resize.csproj.GenerateResource.Cache
+D:\programs\d02sharp\d2042_012form\d2042_132Resize\obj\x86\Debug\d2042_132Resize.exe
+D:\programs\d02sharp\d2042_012form\d2042_132Resize\obj\x86\Debug\d2042_132Resize.pdb
+D:\programs\d02sharp\d2042_012form\d2042_132Resize\obj\x86\Debug\d2042_132Resize.Form1.resources

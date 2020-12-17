@@ -1,0 +1,7 @@
+D:\programs\d02sharp\d2042_012form\d2042_102ProgressBar\bin\Debug\d2042_102ProgressBar.exe
+D:\programs\d02sharp\d2042_012form\d2042_102ProgressBar\bin\Debug\d2042_102ProgressBar.pdb
+D:\programs\d02sharp\d2042_012form\d2042_102ProgressBar\obj\x86\Debug\d2042_102ProgressBar.Properties.Resources.resources
+D:\programs\d02sharp\d2042_012form\d2042_102ProgressBar\obj\x86\Debug\d2042_102ProgressBar.csproj.GenerateResource.Cache
+D:\programs\d02sharp\d2042_012form\d2042_102ProgressBar\obj\x86\Debug\d2042_102ProgressBar.exe
+D:\programs\d02sharp\d2042_012form\d2042_102ProgressBar\obj\x86\Debug\d2042_102ProgressBar.pdb
+D:\programs\d02sharp\d2042_012form\d2042_102ProgressBar\obj\x86\Debug\d2042_102ProgressBar.Form1.resources

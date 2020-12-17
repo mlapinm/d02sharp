@@ -1,0 +1,7 @@
+D:\programs\d02sharp\d2042_012form\d2042_082Picturebox\bin\Debug\d2042_082Picturebox.exe
+D:\programs\d02sharp\d2042_012form\d2042_082Picturebox\bin\Debug\d2042_082Picturebox.pdb
+D:\programs\d02sharp\d2042_012form\d2042_082Picturebox\obj\x86\Debug\d2042_082Picturebox.Form1.resources
+D:\programs\d02sharp\d2042_012form\d2042_082Picturebox\obj\x86\Debug\d2042_082Picturebox.Properties.Resources.resources
+D:\programs\d02sharp\d2042_012form\d2042_082Picturebox\obj\x86\Debug\d2042_082Picturebox.csproj.GenerateResource.Cache
+D:\programs\d02sharp\d2042_012form\d2042_082Picturebox\obj\x86\Debug\d2042_082Picturebox.exe
+D:\programs\d02sharp\d2042_012form\d2042_082Picturebox\obj\x86\Debug\d2042_082Picturebox.pdb
