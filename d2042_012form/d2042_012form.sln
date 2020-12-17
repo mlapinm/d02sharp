@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d2042_112Resize", "d2042_11
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d2042_132Resize", "d2042_132Resize\d2042_132Resize.csproj", "{98BC3522-CE56-417D-9D73-87A2CF2E2F85}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d2042_142Clipboard", "d2042_142Clipboard\d2042_142Clipboard.csproj", "{0A99513B-79F6-48ED-BFF2-ED2F5F2928B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -85,6 +87,10 @@ Global
 		{98BC3522-CE56-417D-9D73-87A2CF2E2F85}.Debug|x86.Build.0 = Debug|x86
 		{98BC3522-CE56-417D-9D73-87A2CF2E2F85}.Release|x86.ActiveCfg = Release|x86
 		{98BC3522-CE56-417D-9D73-87A2CF2E2F85}.Release|x86.Build.0 = Release|x86
+		{0A99513B-79F6-48ED-BFF2-ED2F5F2928B1}.Debug|x86.ActiveCfg = Debug|x86
+		{0A99513B-79F6-48ED-BFF2-ED2F5F2928B1}.Debug|x86.Build.0 = Debug|x86
+		{0A99513B-79F6-48ED-BFF2-ED2F5F2928B1}.Release|x86.ActiveCfg = Release|x86
+		{0A99513B-79F6-48ED-BFF2-ED2F5F2928B1}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

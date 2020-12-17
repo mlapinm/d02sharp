@@ -1,0 +1,7 @@
+D:\programs\d02sharp\d2042_012form\d2042_142Clipboard\bin\Debug\d2042_142Clipboard.exe
+D:\programs\d02sharp\d2042_012form\d2042_142Clipboard\bin\Debug\d2042_142Clipboard.pdb
+D:\programs\d02sharp\d2042_012form\d2042_142Clipboard\obj\x86\Debug\d2042_142Clipboard.Form1.resources
+D:\programs\d02sharp\d2042_012form\d2042_142Clipboard\obj\x86\Debug\d2042_142Clipboard.Properties.Resources.resources
+D:\programs\d02sharp\d2042_012form\d2042_142Clipboard\obj\x86\Debug\d2042_142Clipboard.csproj.GenerateResource.Cache
+D:\programs\d02sharp\d2042_012form\d2042_142Clipboard\obj\x86\Debug\d2042_142Clipboard.exe
+D:\programs\d02sharp\d2042_012form\d2042_142Clipboard\obj\x86\Debug\d2042_142Clipboard.pdb
