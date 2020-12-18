@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "bPyCGO/anr0xwGZ603Mzyej1cpN9Z9sRx2Msee0myWR+t5kFOKgrDrlSC+/DzkjqRprXMvxUAmg7sTI8wSJL5g==",
+  "dgSpecHash": "rYz2UMXeJvd5j0hpcdv/7qQ5DUxEMns7Gn4pJGvcP7hnmxrmUTu5HYe8wjUNSkDCzTNjuzuncJM6ZMx7d8/6Lw==",
   "success": true,
-  "projectFilePath": "D:\\programs\\b225sharp\\d2024devnami\\d2024devnami.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\avi02prog\\d02sharp\\d2024devnami\\d2024devnami.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -11,3 +11,16 @@ D:\programs\b225sharp\d2024devnami\obj\Debug\netcoreapp3.1\d2024devnami.csproj.C
 D:\programs\b225sharp\d2024devnami\obj\Debug\netcoreapp3.1\d2024devnami.dll
 D:\programs\b225sharp\d2024devnami\obj\Debug\netcoreapp3.1\d2024devnami.pdb
 D:\programs\b225sharp\d2024devnami\obj\Debug\netcoreapp3.1\d2024devnami.genruntimeconfig.cache
+D:\avi02prog\d02sharp\d2024devnami\bin\Debug\netcoreapp3.1\d2024devnami.exe
+D:\avi02prog\d02sharp\d2024devnami\bin\Debug\netcoreapp3.1\d2024devnami.deps.json
+D:\avi02prog\d02sharp\d2024devnami\bin\Debug\netcoreapp3.1\d2024devnami.runtimeconfig.json
+D:\avi02prog\d02sharp\d2024devnami\bin\Debug\netcoreapp3.1\d2024devnami.runtimeconfig.dev.json
+D:\avi02prog\d02sharp\d2024devnami\bin\Debug\netcoreapp3.1\d2024devnami.dll
+D:\avi02prog\d02sharp\d2024devnami\bin\Debug\netcoreapp3.1\d2024devnami.pdb
+D:\avi02prog\d02sharp\d2024devnami\obj\Debug\netcoreapp3.1\d2024devnami.csprojAssemblyReference.cache
+D:\avi02prog\d02sharp\d2024devnami\obj\Debug\netcoreapp3.1\d2024devnami.AssemblyInfoInputs.cache
+D:\avi02prog\d02sharp\d2024devnami\obj\Debug\netcoreapp3.1\d2024devnami.AssemblyInfo.cs
+D:\avi02prog\d02sharp\d2024devnami\obj\Debug\netcoreapp3.1\d2024devnami.csproj.CoreCompileInputs.cache
+D:\avi02prog\d02sharp\d2024devnami\obj\Debug\netcoreapp3.1\d2024devnami.dll
+D:\avi02prog\d02sharp\d2024devnami\obj\Debug\netcoreapp3.1\d2024devnami.pdb
+D:\avi02prog\d02sharp\d2024devnami\obj\Debug\netcoreapp3.1\d2024devnami.genruntimeconfig.cache
