@@ -15,6 +15,7 @@ namespace d2024devnami
         public Form1()
         {
             InitializeComponent();
+            Console.WriteLine("4444");
         }
 
     }
