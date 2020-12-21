@@ -1,0 +1,10 @@
+D:\aviprj\d02sharp\d2062_012form\d2062_012form\bin\Debug\d2062_012form.exe.config
+D:\aviprj\d02sharp\d2062_012form\d2062_012form\bin\Debug\d2062_012form.exe
+D:\aviprj\d02sharp\d2062_012form\d2062_012form\bin\Debug\d2062_012form.pdb
+D:\aviprj\d02sharp\d2062_012form\d2062_012form\obj\Debug\d2062_012form.csprojAssemblyReference.cache
+D:\aviprj\d02sharp\d2062_012form\d2062_012form\obj\Debug\d2062_012form.Properties.Resources.resources
+D:\aviprj\d02sharp\d2062_012form\d2062_012form\obj\Debug\d2062_012form.csproj.GenerateResource.cache
+D:\aviprj\d02sharp\d2062_012form\d2062_012form\obj\Debug\d2062_012form.csproj.CoreCompileInputs.cache
+D:\aviprj\d02sharp\d2062_012form\d2062_012form\obj\Debug\d2062_012form.exe
+D:\aviprj\d02sharp\d2062_012form\d2062_012form\obj\Debug\d2062_012form.pdb
+D:\aviprj\d02sharp\d2062_012form\d2062_012form\obj\Debug\d2062_012form.Form1.resources
