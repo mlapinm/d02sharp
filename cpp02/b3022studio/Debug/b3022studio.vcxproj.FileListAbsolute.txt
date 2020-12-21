@@ -1,0 +1,2 @@
+D:\aviprj\d02sharp\cpp02\b3022studio\Debug\b3022studio.exe
+D:\aviprj\d02sharp\cpp02\b3022studio\Debug\b3022studio.pdb
