@@ -5,3 +5,4 @@ D:\programs\d02sharp\d2042_012form\d2042_142Clipboard\obj\x86\Debug\d2042_142Cli
 D:\programs\d02sharp\d2042_012form\d2042_142Clipboard\obj\x86\Debug\d2042_142Clipboard.csproj.GenerateResource.Cache
 D:\programs\d02sharp\d2042_012form\d2042_142Clipboard\obj\x86\Debug\d2042_142Clipboard.exe
 D:\programs\d02sharp\d2042_012form\d2042_142Clipboard\obj\x86\Debug\d2042_142Clipboard.pdb
+D:\programs\d02sharp\d2042_012form\d2042_142Clipboard\obj\x86\Debug\d2042_142Clipboard.csprojResolveAssemblyReference.cache
